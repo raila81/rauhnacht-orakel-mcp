@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rauhnacht-orakel": {
+      "type": "streamable-http",
+      "url": "https://rauhnaechte-ritual.de/mcp?src=mcp"
+    }
+  }
+}

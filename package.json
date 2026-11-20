@@ -1,0 +1,8 @@
+{
+  "name": "rauhnacht-orakel-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rauhnächte 2026/27 in German: a personal January card from your birth date, the twelve nights, 13 wishes.",
+  "homepage": "https://rauhnaechte-ritual.de/",
+  "license": "UNLICENSED"
+}
