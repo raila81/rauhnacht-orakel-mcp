@@ -5,7 +5,31 @@
   "identifier": "rauhnacht-orakel",
   "name": "Rauhnacht-Orakel",
   "prompts": [],
-  "resources": [],
+  "resources": [
+    {
+      "uri": "ui://rauhnacht/karte-v1.html",
+      "name": "rauhnacht-karte",
+      "title": "Rauhnacht-Karte",
+      "mimeType": "text/html;profile=mcp-app",
+      "description": "Zeigt die Januar-Karte, die zwölf Nächte oder das Ritual der 13 Wünsche.",
+      "_meta": {
+        "ui": {
+          "prefersBorder": false,
+          "domain": "https://rauhnaechte-ritual.de",
+          "csp": {
+            "connectDomains": [],
+            "resourceDomains": []
+          }
+        },
+        "openai/widgetDescription": "Zeigt das Ergebnis als Karte im Stil des Rauhnacht-Orakels. Der Text der Antwort steht zusätzlich im Chat.",
+        "openai/widgetPrefersBorder": false,
+        "openai/widgetCSP": {
+          "connect_domains": [],
+          "resource_domains": []
+        }
+      }
+    }
+  ],
   "tools": [
     {
       "name": "rauhnacht_karte",

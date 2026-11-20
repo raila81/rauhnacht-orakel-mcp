@@ -8,11 +8,11 @@ Answers questions about the Rauhnächte 2026/27, the twelve nights between Chris
 
 ## Tools
 
-- `rauhnacht_karte`: returns the same free January card as rauhnaechte-ritual.de: the 1st Rauhnacht (Nacht der Wurzeln, stands for January 2027) with sun sign, moon sign, the personal...
-- `rauhnaechte_kalender`: returns all twelve nights, each with its date, the month of 2027 it stands for, its name and a short ritual, in the wording of rauhnaechte-ritual.de
-- `dreizehn_wuensche`: returns the ritual step by step: what to prepare before the first night, what to do in each of the twelve nights and what happens with the last wish, with the dates...
+- `rauhnacht_karte`: Returns the same free January card as rauhnaechte-ritual.de: the 1st Rauhnacht (Nacht der Wurzeln, stands for January 2027) with sun sign, moon sign, the personal...
+- `rauhnaechte_kalender`: Returns all twelve nights, each with its date, the month of 2027 it stands for, its name and a short ritual, in the wording of rauhnaechte-ritual.de
+- `dreizehn_wuensche`: Returns the ritual step by step: what to prepare before the first night, what to do in each of the twelve nights and what happens with the last wish, with the dates...
 
-All tools are read-only and stateless. No personal data is stored.
+All tools are read-only and stateless. The birth date is used only to compose the card and is not stored or logged; see the privacy page.
 
 ## Connect
 
